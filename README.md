@@ -1,2 +1,2 @@
-# CornellCarpools-Frontend-
-Cornell Carpools app created using SwiftUI (frontend only)
+# CornellCarpools<Frontend>
+Cornell Carpools app created using SwiftUI (frontend only). Cornell Carpool provides a place for students to find others in their area to carpool to various destinations, whether it be a routine weekly trip to Target or going home to Boston over break. Users are welcome to either volunteer themselves as drivers, or to suggest destinations as a rider. Implemented ViewModel delegation, SF Symbols, dynamic lists, and navigation links.
